@@ -15,8 +15,8 @@ figures
 - logo of the app
 
 models
-- PLCOLungCancerRisk.pkl - the XGBoost model for lung cancer risk in pickle format
-- PLCOLungCancerDeath.pkl - the XGBoost model for lung cancer death in pickle format
+- LungCancerRisk.pkl - the XGBoost model for lung cancer risk in pickle format
+- LungCancerDeath.pkl - the XGBoost model for lung cancer death in pickle format
 
 tabs
 - intro.py - The code for the 'About' tab
