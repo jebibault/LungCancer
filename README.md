@@ -20,7 +20,8 @@ models
 
 tabs
 - intro.py - The code for the 'About' tab
-- predictCSS.py - The code for the 'Predict cancer-specific survival' tab
+- LungCancerRisk.py - The tab to predict lung cancer risk
+- LungCancerDeath.py - The tab to predict lung cancer death
 
 main app
 - app.py - Initiates the Dash app
